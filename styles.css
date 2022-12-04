@@ -1,0 +1,133 @@
+.font0 {
+    font-family: "Libre Franklin", arial, sans-serif;
+    font-weight: lighter;
+  }
+  .font1 {
+    font-family: "Libre Franklin", arial, sans-serif;
+    font-weight: lighter;
+    font-size: 10px;
+  }
+
+  .font2 {
+    font-family: "Tenor Sans", times, sans-serif;
+  }
+  .font3 {
+    font-family: "Source Serif Pro", times, serif;
+  }
+
+  .font4 {
+    font-family: "Libre Franklin", arial, sans-serif;
+    font-weight: bolder;
+    font-size: 10px;
+  }
+  .fontcolor1 {
+    color: #999;
+  }
+  .fontcolor2 {
+    color: #666;
+  }
+  .fontcolor3 {
+    color: #fff;
+  }
+  .logo {
+    padding-top: 20px;
+    padding-left: 120px;
+    padding-bottom: 12px;
+  }
+  .header {
+    display: grid;
+    grid-template-columns: 5fr 1fr 1fr 1fr;
+  }
+  .line {
+    width: 100%;
+    margin-bottom: 45px;
+  }
+  .main {
+    margin-left: 120px;
+    margin-right: 120px;
+  }
+  .Section1 {
+    display: grid;
+    grid-template-columns: 60% 40%;
+  }
+  .pic1 {
+    grid-row: 1/5;
+    grid-column: 1/2;
+  }
+  .main1_1 {
+    width: fit-content;
+  }
+  .section2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 40px;
+  }
+  .section3 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-top: 40px;
+  }
+  .divbut {
+    display: grid;
+  }
+  .button {
+    border: 1px #666 solid;
+    width: 130px;
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-self: center;
+  }
+  .posts {
+    margin-top: 70px;
+  }
+  .section4 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 20px;
+    margin-bottom: 70px;
+  }
+  .footer {
+    background-color: #141414;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 70px;
+  }
+  .footer1 {
+    display: grid;
+    grid-template-columns: 1fr 2fr 5fr;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .footer2 {
+    display: grid;
+    grid-template-columns: 16% 16% 16% 16%;
+    
+  }
+  .CATEGORIES{
+    padding-top: 40px;
+  }
+  .email {
+    border: 1px white solid;
+    background-color: white;
+    width: 130px;
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+  }
+  .send {
+    border: 1px #000000 solid;
+    background-color: #000000;
+    width: 30px;
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+  }
+  .adress {
+    display: grid;
+    grid-template-columns: 160px 30px;
+    justify-content: end;
+  }
+  .footer3{display: grid;
+    grid-template-columns: 16% 16% 16% ;
+padding-bottom: 100px;}
